@@ -1,0 +1,11 @@
+th {
+    display: table-cell;
+    vertical-align: inherit;
+    font-weight: bold;
+    text-align: -internal-center;
+}
+
+td {
+    display: table-cell;
+    vertical-align: inherit;
+}
